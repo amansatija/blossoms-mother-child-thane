@@ -1,0 +1,4 @@
+All photos: Pexels (Pexels licence). Stock, not the business's own photos; resized.
+hero.jpg https://www.pexels.com/photo/woman-carrying-a-baby-3963726/
+child.jpg https://www.pexels.com/photo/doctor-examining-a-girl-with-a-stethoscope-7447001/ (Gustavo Fring)
+exam.jpg https://www.pexels.com/photo/a-doctor-examining-a-child-patient-5998453/ (Pavel Danilyuk)
